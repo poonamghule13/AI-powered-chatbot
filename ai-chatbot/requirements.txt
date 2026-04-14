@@ -1,0 +1,7 @@
+1.Install Python
+2.Create folder ai-chatbot
+3.cd ai-chatbot
+4.pip install flask flask-cors
+5.cd backend
+6.python app.py
+7.Open index.html
